@@ -1,9 +1,0 @@
-{
-  "name": "uqt-rewards-site",
-  "version": "1.0.0",
-  "private": true,
-  "description": "UQT Rewards static site with Stripe Checkout via a Netlify serverless function.",
-  "dependencies": {
-    "stripe": "^17.0.0"
-  }
-}
